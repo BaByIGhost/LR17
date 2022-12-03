@@ -1,6 +1,9 @@
 Выполнил: Ковригин К.А.
+
 Группа: ЭВТ-71
+
 Игровой движок: Unity 2021.3.10f1
+
 Название работы: Разработка игры Puzzle Plumber
 
 ![image](https://user-images.githubusercontent.com/119486614/205432901-5ce76085-daf6-43f9-b5a8-6f288071138c.png)
