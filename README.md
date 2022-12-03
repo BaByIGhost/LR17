@@ -11,8 +11,7 @@
 
 Рисунок 17.2 - Окно Scene
 
-![image](https://user-images.githubusercontent.com/119486614/205433095-dd83cb80-0ca2-4419-8d9b-44cfc275861b.png)
-
+![image](https://user-images.githubusercontent.com/119486614/205433152-219bf556-0109-4603-8183-49e1c781484f.png)
 
 Рисунок 17.3 - Окно Game
 
