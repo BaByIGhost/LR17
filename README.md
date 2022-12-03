@@ -7,14 +7,16 @@
 
 Рисунок 17.1 - Окно Hierarchy
 
-РИСУНОК
+![image](https://user-images.githubusercontent.com/119486614/205433065-df73abcd-6f73-4883-adbe-a559614dc64f.png)
 
 Рисунок 17.2 - Окно Scene
 
-РИСУНОК
+![image](https://user-images.githubusercontent.com/119486614/205433095-dd83cb80-0ca2-4419-8d9b-44cfc275861b.png)
+
 
 Рисунок 17.3 - Окно Game
 
-РИСУНОК
+![image](https://user-images.githubusercontent.com/119486614/205433087-e814ba50-6d6e-4627-b768-14856bab022d.png)
+
 
 Рисунок 17.4 - Окно Game и Окно Inspector объекта Pipes
