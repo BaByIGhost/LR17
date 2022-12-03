@@ -16,7 +16,7 @@
 
 Рисунок 17.3 - Окно Game
 
-![image](https://user-images.githubusercontent.com/119486614/205433087-e814ba50-6d6e-4627-b768-14856bab022d.png)
+![image](https://user-images.githubusercontent.com/119486614/205433127-d91b7a56-5a02-4691-9cf8-4cbe06a6c6c2.png)
 
 
 Рисунок 17.4 - Окно Game и Окно Inspector объекта Pipes
